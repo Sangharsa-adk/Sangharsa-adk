@@ -14,7 +14,7 @@ I am a logic-driven enthusiast based in **Lalitpur, Nepal**, currently bridging 
 ### 🧠 My Core Toolkit
 *   **Analysis:** Logic puzzles, spatial reasoning, and behavioral data analysis.
 *   **Fintech Interest:** Credit risk modeling, regulatory frameworks, and P2P platforms.
-*   **Tech Stack:** [Python,SQL,C#]
+*   **Tech Stack:** [HTML5,CSS3,Python,SQL]
 *   **Soft Skills:** Strategic planning, professional communication, and crisis management.
 
 ### 📊 GitHub Stats
