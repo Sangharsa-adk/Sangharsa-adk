@@ -1,6 +1,6 @@
 # Hi there, I'm [Sangharsa Adhikari] 👋
 
-### 🛠 Technical Support Executive | Fintech Enthusiast | Master's Candidate
+### 🛠 Fintech Enthusiast | Master's Candidate
 
 I am a logic-driven enthusiast based in **Lalitpur, Nepal**, currently bridging the gap between technical operations and financial technology. My background lies in technical support, but my passion is in building data-driven solutions for the fintech sector—specifically exploring P2P lending models and more.
 
