@@ -2,7 +2,7 @@
 
 ### 🛠 Technical Support Executive | Fintech Enthusiast | Master's Candidate
 
-I am a logic-driven professional based in **Lalitpur, Nepal**, currently bridging the gap between technical operations and financial technology. My background lies in technical support, but my passion is in building data-driven solutions for the fintech sector—specifically exploring P2P lending models and more.
+I am a logic-driven enthusiast based in **Lalitpur, Nepal**, currently bridging the gap between technical operations and financial technology. My background lies in technical support, but my passion is in building data-driven solutions for the fintech sector—specifically exploring P2P lending models and more.
 
 ---
 
@@ -18,7 +18,7 @@ I am a logic-driven professional based in **Lalitpur, Nepal**, currently bridgin
 *   **Soft Skills:** Strategic planning, professional communication, and crisis management.
 
 ### 📊 GitHub Stats
-![Sangharsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangharsa-adk&show_icons=true&theme=dark)
+![Sangharsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangharsa-adk&theme=dark)
 
 ---
 
