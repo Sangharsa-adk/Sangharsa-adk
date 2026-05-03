@@ -18,7 +18,7 @@ I am a logic-driven professional based in **Lalitpur, Nepal**, currently bridgin
 *   **Soft Skills:** Strategic planning, professional communication, and crisis management.
 
 ### 📊 GitHub Stats
-![Sangharsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangharsa-adk&show_icons=true&theme=radical)
+![Sangharsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangharsa-adk&show_icons=true&theme=dark)
 
 ---
 
