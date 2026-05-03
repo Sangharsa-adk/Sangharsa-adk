@@ -1,26 +1,35 @@
-# Hi there, I'm [Sangharsa Adhikari] 👋
+# Hi there, I am [Sangharsa Adhikari] 👋
 
-### 🛠 Fintech Enthusiast | Master's Candidate
+### 🛠 Fintech Enthusiast | Post graduate student
 
-I am a logic-driven enthusiast based in **Lalitpur, Nepal**, currently bridging the gap between technical operations and financial technology. My background lies in technical support, but my passion is in building data-driven solutions for the fintech sector—specifically exploring P2P lending models and more.
+New to github, so just learning and updating my tech life here.
+
+ ##I do have more research papers than the repositories 🫣.  
+
+I love enrolling myself on the fintech related environments. I have been in the Business/ fintech company since 3+ years as a tech support. I love using my skills and knowledge in the fintech systems. I am open to collaborate with fintech systems in the future as well. 
 
 ---
 
 ### 🚀 What I’m Working On
-*   🎓 **Academic:** Completing my Master’s degree on Computer Science
+*   🎓 **Academic:** Master's Degree in Computer Science
 *   💡 **Fintech:** Researching peer-to-peer (P2P) lending ecosystems and risk assessment models.
-*   🔧 **Operations:** Optimizing technical support workflows and troubleshooting complex system architectures.
+*   🔧 **Operations:** Optimizing technical support and troubleshooting fintech system.
 
 ### 🧠 My Core Toolkit
-*   **Analysis:** Logic puzzles, spatial reasoning, and behavioral data analysis.
 *   **Fintech Interest:** Credit risk modeling, regulatory frameworks, and P2P platforms.
 *   **Tech Stack:** [HTML5,CSS3,Python,SQL]
-*   **Soft Skills:** Strategic planning, professional communication, and crisis management.
-
+*   **Soft Skills:** Leadership, Collaboration, Exploring and Networking.
+  
 ### 📊 GitHub Stats
 ![Sangharsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangharsa-adk&theme=dark)
 
 ---
+## 🎮 Hobbies & Interests
+* 🏍️ Motorcycling:**
+* 🌿 Nature Lover:*
+* 🎸 Playing Guitar:*
+* 🉐 Anime Lover:*
+* 💡 Idea Architect:*
 
 ### 📫 Connect with me:
 *   **Location:** Lalitpur, Nepal 🇳🇵
