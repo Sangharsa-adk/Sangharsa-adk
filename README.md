@@ -26,4 +26,4 @@ I am a logic-driven enthusiast based in **Lalitpur, Nepal**, currently bridging 
 *   **Location:** Lalitpur, Nepal 🇳🇵
 *   **Goal:** To build the next generation of inclusive financial tools.
 
-*"I believe every complex problem has a logical solution waiting to be coded."*
+*"I believe every complex problem has a logical solution waiting."*
