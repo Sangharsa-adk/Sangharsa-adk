@@ -17,7 +17,6 @@ I love enrolling myself on the fintech related environments. I have been in the 
 
 ### 🧠 My Core Toolkit
 *   **Fintech Interest:** Credit risk modeling, regulatory frameworks, and P2P platforms.
-*   **Tech Stack:** [HTML5,CSS3,Python,SQL]
 *   **Soft Skills:** Leadership, Collaboration, Exploring and Networking.
   
 ### 📊 GitHub Stats
