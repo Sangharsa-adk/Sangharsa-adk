@@ -36,11 +36,25 @@ I love enrolling myself on the fintech related environments. I have been in the 
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-### 💻 Programming Languages & Tools
+### 💻 Programming Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+
+### ☁️ Cloud & Web Deployment Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -55,6 +69,12 @@ I love enrolling myself on the fintech related environments. I have been in the 
 
 ### 💸 FinTech & Financial Inclusion
 * **P2P Lending Platform for Emerging Markets:** Designing a decentralized peer-to-peer lending model aimed at empowering small startups, students, and rural, unbanked communities through behavioral credit scoring frameworks.
+
+### 🤖 Artificial Intelligence & Intelligent Systems
+* **Generative AI Chatbot Development:** Exploring and implementing foundational Large Language Models (LLMs) to build responsive, interactive conversational agents. Utilizing **Google Colab** for environment sandboxing, model prototyping, and scripting functional Python implementations.
+
+### 🌐 Web Engineering & Deployments
+* **Personal Web Portfolio:** Designed and built a responsive static web portfolio using **HTML5 and CSS3**. Leveraged **Cloudflare Pages** for serverless hosting and automation, alongside implementing customized routing handlers using **Cloudflare Workers** with a registered custom `.np` domain.
 
 ---
 
