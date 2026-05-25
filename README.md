@@ -50,7 +50,7 @@ I love enrolling myself on the fintech related environments. I have been in the 
 
 ### 🛡️ Cybersecurity & App Deployments
 * **[Live App] Nepal Quishing Detection Application:** A functional tool built and deployed to analyze potential QR-code-based phishing attempts targeting digital payment systems. 
-  👉 *[Launch the Streamlit App](YOUR_STREAMLIT_APP_URL_HERE)*
+  👉 *[Launch the Streamlit App](YOUR_STREAMLIT_APP_URL_HERE)(https://nepal-qrshield.streamlit.app/)*
 * **[Medium] [I Saved My Entire Development Environment from an Arch Linux Boot Collapse](https://medium.com/@sangharsa.adhikari/i-saved-my-entire-development-environment-from-an-arch-linux-boot-collapse-6d27c69046cb):** A technical postmortem detailing the step-by-step process of chrooting, rebuilding initramfs, and diagnosing system-level failures to rescue a primary workstation without data loss.
 
 ### 💸 FinTech & Financial Inclusion
