@@ -20,7 +20,7 @@ I love enrolling myself on the fintech related environments. I have been in the 
 *   **Soft Skills:** Leadership, Collaboration, Exploring and Networking.
   
 ### 📊 GitHub Stats
-![Sangharsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangharsa-adk&theme=dark)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Sangharsa-adk/Sangharsa-adk/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🎮 Hobbies & Interests
