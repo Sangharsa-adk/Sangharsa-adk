@@ -5,9 +5,6 @@
 New to github, so just learning and updating my tech life here.  
 
 I love enrolling myself on the fintech related environments. I have been in the Business/ fintech company since 3+ years as a tech support. I love using my skills and knowledge in the fintech systems. I am open to collaborate with fintech systems in the future as well. 
-<p align="left">
-  <img src="https://komarev.com/normal-counter/?username=Sangharsa-adk&style=flat-square&color=azure" alt="Profile Views" />
-</p>
 
 ---
 
