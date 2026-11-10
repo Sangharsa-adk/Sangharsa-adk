@@ -21,13 +21,12 @@ I love enrolling myself on the fintech related environments. I have been in the 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch%20Linux-333333?style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red" alt="BlackArch" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Garuda%20Linux-1A1A24?style=for-the-badge&logo=garudalinux&logoColor=white" alt="Garuda" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 ### 🖥️ Desktop & Shell Environments
 <p align="left">
+  <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-4a86cf?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" /></a>
   <img src="https://img.shields.io/badge/XFCE-4C7A9F?style=for-the-badge&logo=xfce&logoColor=white" alt="XFCE" />
   <img src="https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -35,7 +34,7 @@ I love enrolling myself on the fintech related environments. I have been in the 
 
 ### 💻 Programming Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></a>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -50,9 +49,7 @@ I love enrolling myself on the fintech related environments. I have been in the 
 ### ☁️ Cloud & Web Deployment Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
