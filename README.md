@@ -81,6 +81,7 @@ I love enrolling myself on the fintech related environments. I have been in the 
 
 ![Sangharsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangharsa-adk&theme=dark)
 
+
 ---
 ## 🎮 Hobbies & Interests
 * 🏍️ Motorcycling:**
@@ -98,3 +99,4 @@ I love enrolling myself on the fintech related environments. I have been in the 
 *   **Goal:** To build the next generation of inclusive financial tools.
 
 *"I believe every complex problem has a logical solution waiting."*
+![Profile Views](https://komarev.com/ghpvc/?username=Sangharsa-adk&color=blue)
