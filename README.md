@@ -57,10 +57,11 @@ I love enrolling myself on the fintech related environments. I have been in the 
 ## 📖 Featured Work & Publications
 
 ### 🛡️ Cybersecurity & App Deployments
-* **[Live App] Nepal Quishing Detection Application:** A functional tool built and deployed to analyze potential QR-code-based phishing attempts targeting digital payment systems. 
-  👉 *[Launch the Streamlit App](YOUR_STREAMLIT_APP_URL_HERE)(https://nepal-qrshield.streamlit.app/)*
-* **[Medium] [I Saved My Entire Development Environment from an Arch Linux Boot Collapse](https://medium.com/@sangharsa.adhikari/i-saved-my-entire-development-environment-from-an-arch-linux-boot-collapse-6d27c69046cb):** A technical postmortem detailing the step-by-step process of chrooting, rebuilding initramfs, and diagnosing system-level failures to rescue a primary workstation without data loss.
-
+* **[Live App] Nepal Quishing Detection Application**: A functional tool built and deployed to analyze potential QR-code-based phishing attempts targeting digital payment systems. 👉 [*Launch the Streamlit App*](https://nepal-qrshield.streamlit.app/)
+* **[Live App] Nepali Isai Patro (Calendar)**: A bilingual, offline-first Progressive Web App built with Vite, React, and TypeScript featuring Bikram Sambat to Gregorian date conversion, Christian liturgical feasts, and personal note-taking. 👉 [*Launch the Web App*](https://isai-patro.pages.dev/)
+* **[Medium] [Why Generic QR Scanners Fail at Payment Security — And How I Built SajagQR to Audit Standee Integrity](YOUR_MEDIUM_LINK_HERE)**: A technical deep dive into QR-code phishing ("quishing") in Nepal's fintech ecosystem, detailing how SajagQR uses EMVCo Tag-Length-Value (TLV) parsing and CRC-16 checksum validation to detect tampered merchant standees and P2P wallet diversions.
+* **[Medium] [I Saved My Entire Development Environment from an Arch Linux Boot Collapse](YOUR_EXISTING_MEDIUM_LINK_HERE)**: A technical postmortem detailing the step-by-step process of chrooting, rebuilding initramfs, and diagnosing system-level failures to rescue a primary workstation without data loss.
+* 
 ### 💸 FinTech & Financial Inclusion
 * **P2P Lending Platform for Emerging Markets:** Designing a decentralized peer-to-peer lending model aimed at empowering small startups, students, and rural, unbanked communities through behavioral credit scoring frameworks.
 
